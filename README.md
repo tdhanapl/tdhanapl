@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DevOps Engineer**
 
-- 🌱 I’m currently learning **Python scripting, Terraform**
+- 🌱 I’m currently learning **Python scripting**
 
 - 📫 How to reach me **dhanapal703278@gmail.com**
 
