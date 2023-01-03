@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm dhanapal</h1>
 <h3 align="center">A passionate DevOps Engineer/SRE from India</h3>
 
-<p align="left"> <a href="https://twitter.com/tdhanapl" target="blank"><img src="https://img.shields.io/twitter/follow/tdhanapl?logo=twitter&style=for-the-badge" alt="tdhanapl" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tdhanapl&label=Profile%20views&color=0e75b6&style=flat" alt="tdhanapl" /> </p>
 
 - 🔭 I’m currently working as **Site Reliability Engineer**
 
@@ -21,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tdhanapl&show_icons=true&locale=en&layout=compact" alt="tdhanapl" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tdhanapl&show_icons=true&locale=en" alt="tdhanapl" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tdhanapl&" alt="tdhanapl" /></p>
