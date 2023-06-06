@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Site Reliability Engineer**
 
-- 🌱 I’m currently learning **Python scripting,**
+- 🌱 I’m currently learning **Azure Cloud**
 
 - 📫 How to reach me **dhanapal7368@gmail.com**
 
