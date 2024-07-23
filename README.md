@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdhanapl&label=Profile%20views&color=0e75b6&style=flat" alt="tdhanapl" /> </p>
 
-- 🔭 I’m currently working as **Senior Linux Support Engineer**
+- 🔭 I’m currently working as **Site Reliability Engineer**
 
 - 🌱 I’m currently learning **Azure Cloud**
 
